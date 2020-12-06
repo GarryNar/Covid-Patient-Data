@@ -3,7 +3,7 @@ Covid patients data
 
 age- age in years 
 sex- (1 = male; 0 = female) 
-cp - hest pain  type
+cp - chest pain  type
 trestbps - resting blood pressure (in mm Hg on admission to the hospital) 
 chol- serum cholestoral in mg/dl 
 fbs - (fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false) 
